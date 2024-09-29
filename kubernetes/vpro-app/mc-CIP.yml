@@ -10,3 +10,4 @@ spec:
   selector:
     app: vpromc 
   type: ClusterIP
+##
